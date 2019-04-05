@@ -1,0 +1,9 @@
+
+.idea/
+lambda-xray-layer.iml
+terraform/backend-config.conf
+/terraform/terraform.tfvars
+*.zip
+plan
+.terraform
+node_modules
